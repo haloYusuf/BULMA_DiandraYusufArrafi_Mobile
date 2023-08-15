@@ -16,7 +16,7 @@ Untuk halaman login disediakan 2 text field(NIM, Password). Untuk bisa login, ha
 
 Pada halaman home, ada tombol Input KRS. Dimana ketika tombol tersebut ditekan, akan muncul BottomModal yang berisi Dropdown dari Hari, Matkul, dan juga Dosen. Untuk bisa menyimpan data KRS, hanya perlu memilih ketiga dropdown tersebut lalu tekan tombol save. Data yang sudah di save akan muncul dalam bentuk table.
 
-__Project ini dibuat oleh Diandra yusuf Arrafi dari IF 22.__
+__Project ini dibuat oleh Diandra yusuf Arrafi dari IF 22 UPN V YK.__
 
 
 ## Getting Started
